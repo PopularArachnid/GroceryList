@@ -1,0 +1,13 @@
+{
+  "name": "programming-project1",
+  "version": "0.0.0",
+  "description": "ProgrammingProject1",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "yargs": "^15.3.1"
+  }
+}
